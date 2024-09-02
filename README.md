@@ -1,6 +1,6 @@
 # hacked-emails
 
-A command line [hacked-email](https://hacked-emails.com) utility
+A command line [hacked-email](hadiali12@gmail.com) utility
 
 ## Installation
 
